@@ -1,3 +1,7 @@
-let h = 5;
+var sayName = "Sam";
+var num = 23;
+document.write("Hello there, " + sayName + ".");
+document.write('\nI am ' + num + ' years old.');
 
-let js = 'hello';
+console.log("Hello there, " + sayName + ".");
+console.log('\nI am ' + num + ' years old.');
